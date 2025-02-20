@@ -23,13 +23,4 @@ cd NutriRaki
 npm install  
 
 # Start the development server  
-npm run dev  
-## 📬 Contact  
-For any questions or feedback, feel free to reach out:  
-- 📧 **Email:** sureshsuresh95176@gmail.com  
-- 🔗 **LinkedIn:** [Your LinkedIn Profile](#)
-
----
-
-Thank you for checking out NutriRaki! We hope this platform helps you achieve your health and fitness goals. Your contributions, suggestions, and support are always welcome. Happy tracking!
-
+npm run dev
