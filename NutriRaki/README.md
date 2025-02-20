@@ -24,11 +24,12 @@ npm install
 
 # Start the development server  
 npm run dev  
+## 📬 Contact  
+For any questions or feedback, feel free to reach out:  
+- 📧 **Email:** sureshsuresh95176@gmail.com  
+- 🔗 **LinkedIn:** [Your LinkedIn Profile](#)
 
-## How to use it:
-1. Copy the above code.
-2. Paste it into your `README.md` file in your GitHub repository.
-3. Replace **`rakesh8102004`** with your GitHub username and **`[Your LinkedIn Profile](https://www.linkedin.com/in/rakesh-sp-37863b253)`** with your actual LinkedIn profile link.
-4. Add screenshots under the **📷 Screenshots** section.
+---
 
-This will render the README in the exact format you want. 🚀
+Thank you for checking out NutriRaki! We hope this platform helps you achieve your health and fitness goals. Your contributions, suggestions, and support are always welcome. Happy tracking!
+
