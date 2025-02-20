@@ -25,7 +25,7 @@ npm install
 # Start the development server  
 npm run dev  
 
-### How to use it:
+## How to use it:
 1. Copy the above code.
 2. Paste it into your `README.md` file in your GitHub repository.
 3. Replace **`rakesh8102004`** with your GitHub username and **`[Your LinkedIn Profile](https://www.linkedin.com/in/rakesh-sp-37863b253)`** with your actual LinkedIn profile link.
